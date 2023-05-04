@@ -1,5 +1,4 @@
-// programa porteira.c, modo aramado
-//ST765, 1sem23, Prof. Marco Antonio
+
 #include<stdlib.h>
 #include<GL/glut.h>
 
